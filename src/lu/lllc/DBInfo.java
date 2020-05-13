@@ -1,7 +1,7 @@
 package lu.lllc;
 
 public class DBInfo {
-	static String host = "jws-app-mysql"; // The standard name in Tomcat+ MySQL on openshift
+	static String host = "172.30.149.50"; // The standard name in Tomcat+ MySQL on openshift
 
 	static String DBname = "lllc";
 	static int port = 3306; // This is for MySQL
